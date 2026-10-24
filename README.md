@@ -331,4 +331,8 @@ This project demonstrates a complete end-to-end LLM application that combines **
 
 Google Gemini is used to extract structured IPL match information, while Pydantic ensures schema validation and data quality. The extracted records are stored as JSON and used alongside a FAISS-powered vector database to retrieve relevant information for answering IPL-related queries.
 
-The project successfully integrates modern LLM techniques, schema validation, semantic search, and retrieval-based question answering into a single end-to-end workflow.
+The notebook implements structured extraction, schema validation, semantic search, and context-grounded question answering as an end-to-end workflow.
+
+
+> **Run status:** The supplied archive's `structured_results.json` is empty (`[]`), so it contains 0 Gemini-validated records. The revised Gemini calls were not rerun during this update because no API key was available; the notebook prints the actual success count when run. The cached five-query retrieval snapshot scored top-1 1/5 and top-2 4/5, and was not rerun during this update.
+
