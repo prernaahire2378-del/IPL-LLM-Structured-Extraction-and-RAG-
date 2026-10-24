@@ -1,3 +1,142 @@
-[]
-
-
+[
+  {
+    "teams": [
+      "Mumbai Indians",
+      "Chennai Super Kings"
+    ],
+    "venue": "Wankhede Stadium",
+    "winner": "Mumbai Indians",
+    "result": "Mumbai Indians won by 5 wickets",
+    "summary": "Mumbai Indians defeated Chennai Super Kings by 5 wickets at Wankhede Stadium after a successful run chase."
+  },
+  {
+    "teams": [
+      "Chennai Super Kings",
+      "Royal Challengers Bangalore"
+    ],
+    "venue": "M. Chinnaswamy Stadium",
+    "winner": "Chennai Super Kings",
+    "result": "Chennai Super Kings won by 6 wickets",
+    "summary": "Chennai Super Kings defeated Royal Challengers Bangalore by 6 wickets at M. Chinnaswamy Stadium."
+  },
+  {
+    "teams": [
+      "Kolkata Knight Riders",
+      "Sunrisers Hyderabad"
+    ],
+    "venue": "Eden Gardens",
+    "winner": "Kolkata Knight Riders",
+    "result": "Kolkata Knight Riders won by 8 wickets",
+    "summary": "Kolkata Knight Riders defeated Sunrisers Hyderabad by 8 wickets at Eden Gardens."
+  },
+  {
+    "teams": [
+      "Rajasthan Royals",
+      "Delhi Capitals"
+    ],
+    "venue": "Sawai Mansingh Stadium",
+    "winner": "Rajasthan Royals",
+    "result": "Rajasthan Royals won by 4 wickets",
+    "summary": "Rajasthan Royals defeated Delhi Capitals by 4 wickets at Sawai Mansingh Stadium."
+  },
+  {
+    "teams": [
+      "Royal Challengers Bangalore",
+      "Mumbai Indians"
+    ],
+    "venue": "Wankhede Stadium",
+    "winner": "Royal Challengers Bangalore",
+    "result": "Royal Challengers Bangalore won by 7 wickets",
+    "summary": "Royal Challengers Bangalore defeated Mumbai Indians by 7 wickets at Wankhede Stadium."
+  },
+  {
+    "teams": [
+      "Sunrisers Hyderabad",
+      "Punjab Kings"
+    ],
+    "venue": "Rajiv Gandhi International Stadium",
+    "winner": "Sunrisers Hyderabad",
+    "result": "Sunrisers Hyderabad won by 5 runs",
+    "summary": "Sunrisers Hyderabad defeated Punjab Kings by 5 runs at Rajiv Gandhi International Stadium."
+  },
+  {
+    "teams": [
+      "Gujarat Titans",
+      "Lucknow Super Giants"
+    ],
+    "venue": "Narendra Modi Stadium",
+    "winner": "Gujarat Titans",
+    "result": "Gujarat Titans won by 7 wickets",
+    "summary": "Gujarat Titans defeated Lucknow Super Giants by 7 wickets at Narendra Modi Stadium."
+  },
+  {
+    "teams": [
+      "Delhi Capitals",
+      "Kolkata Knight Riders"
+    ],
+    "venue": "Arun Jaitley Stadium",
+    "winner": "Delhi Capitals",
+    "result": "Delhi Capitals won by 4 wickets",
+    "summary": "Delhi Capitals defeated Kolkata Knight Riders by 4 wickets at Arun Jaitley Stadium."
+  },
+  {
+    "teams": [
+      "Punjab Kings",
+      "Rajasthan Royals"
+    ],
+    "venue": "Maharaja Yadavindra Singh International Cricket Stadium",
+    "winner": "Punjab Kings",
+    "result": "Punjab Kings won by 5 wickets",
+    "summary": "Punjab Kings defeated Rajasthan Royals by 5 wickets at the Maharaja Yadavindra Singh International Cricket Stadium."
+  },
+  {
+    "teams": [
+      "Chennai Super Kings",
+      "Gujarat Titans"
+    ],
+    "venue": "MA Chidambaram Stadium",
+    "winner": "Chennai Super Kings",
+    "result": "Chennai Super Kings won by 63 runs",
+    "summary": "Chennai Super Kings defeated Gujarat Titans by 63 runs at MA Chidambaram Stadium."
+  },
+  {
+    "teams": [
+      "Royal Challengers Bangalore",
+      "Punjab Kings"
+    ],
+    "venue": "M. Chinnaswamy Stadium",
+    "winner": "Royal Challengers Bangalore",
+    "result": "Royal Challengers Bangalore won by 4 wickets",
+    "summary": "Royal Challengers Bangalore defeated Punjab Kings by 4 wickets at M. Chinnaswamy Stadium."
+  },
+  {
+    "teams": [
+      "Mumbai Indians",
+      "Rajasthan Royals"
+    ],
+    "venue": "Wankhede Stadium",
+    "winner": "Mumbai Indians",
+    "result": "Mumbai Indians won by 6 wickets",
+    "summary": "Mumbai Indians defeated Rajasthan Royals by 6 wickets at Wankhede Stadium."
+  },
+  {
+    "teams": [
+      "Kolkata Knight Riders",
+      "Delhi Capitals"
+    ],
+    "venue": "Eden Gardens",
+    "winner": "Kolkata Knight Riders",
+    "result": "Kolkata Knight Riders won by 7 wickets",
+    "summary": "Kolkata Knight Riders defeated Delhi Capitals by 7 wickets at Eden Gardens."
+  },
+  {
+    "teams": [
+      "Sunrisers Hyderabad",
+      "Gujarat Titans"
+    ],
+    "venue": "Rajiv Gandhi International Stadium",
+    "winner": "Sunrisers Hyderabad",
+    "result": "Sunrisers Hyderabad won by 5 wickets",
+    "summary": "Sunrisers Hyderabad defeated Gujarat Titans by 5 wickets at Rajiv Gandhi International Stadium."
+  }
+]
