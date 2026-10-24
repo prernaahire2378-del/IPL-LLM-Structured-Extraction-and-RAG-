@@ -333,6 +333,4 @@ Google Gemini is used to extract structured IPL match information, while Pydanti
 
 The notebook implements structured extraction, schema validation, semantic search, and context-grounded question answering as an end-to-end workflow.
 
-
 > **Run status:** The supplied archive's `structured_results.json` is empty (`[]`), so it contains 0 Gemini-validated records. The revised Gemini calls were not rerun during this update because no API key was available; the notebook prints the actual success count when run. The cached five-query retrieval snapshot scored top-1 1/5 and top-2 4/5, and was not rerun during this update.
-
